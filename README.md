@@ -32,10 +32,10 @@ Proof of Google AI Usage:
 <img width="649" height="243" alt="3" src="https://github.com/user-attachments/assets/3abedb76-5ab2-44cb-a70e-d4c02131b6f0" />
 
 Screenshot:
-
+<img width="524" height="706" alt="project" src="https://github.com/user-attachments/assets/8a5eac3a-2b3c-4703-8b95-240a096a7a66" />
 
 Demo Video:
-
+https://drive.google.com/file/d/1z6CzELYtYRkdfcF6x3Hh3_gaek2-iy8T/view?usp=drive_link
 
 Installations Steps:
 # Clone the repository
